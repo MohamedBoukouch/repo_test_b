@@ -9,7 +9,7 @@ public class main {
 		
 		ProgramFactory factory = new ProgramFactory();
 		ProgramInterface programe = factory.factory(4);
-		System.err.println("ff");
+		System.err.println("medooo");
 		
 		programe.go();
 	}
